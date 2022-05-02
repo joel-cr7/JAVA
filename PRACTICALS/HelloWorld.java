@@ -3,8 +3,11 @@ package HelloWorld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World!!");
-
+		char marks, grade;
+		marks='8';
+		grade='B';
+		System.out.println("Marks: "+marks);
+		System.out.println("Grade: "+grade);
 	}
 
 }
